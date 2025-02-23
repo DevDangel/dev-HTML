@@ -1,0 +1,19 @@
+# Archivos del sistema
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archivos de configuración de editores
+.vscode/
+.idea/
+*.code-workspace
+
+# Archivos temporales y de sistema operativo
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Otros archivos innecesarios
+*.log
+logs/
