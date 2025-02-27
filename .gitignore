@@ -1,0 +1,33 @@
+# Archivos de configuración del sistema
+/accessibility.properties
+/bash_history
+/cache/
+/config/
+/eclipse/
+/gitconfig
+/jdks/
+/m2/
+/nbi/
+/p2/
+/sts4/
+/vscode/
+
+# Archivos del sistema operativo
+NTUSER.DAT*
+ntuser.ini
+
+# Carpetas del sistema
+3D Objects/
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Searches/
+Videos/
+eclipse-workspace/
