@@ -1,0 +1,13 @@
+.DS_store
+Thumb.db
+
+*.log
+
+*.swp
+*.swo
+*.bak
+*.tmp
+
+*.class
+*.o
+*.out
