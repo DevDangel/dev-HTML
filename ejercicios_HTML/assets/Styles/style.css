@@ -1,9 +1,33 @@
-.cuerpo{
-    background-color: rgb(87, 231, 219);
+
+/*Ejemplo 1: Restablecer márgenes, rellenos y ajustar el tamaño de la caja*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}   
+
+/*Ejemplo 2: Establecer color de texto, fondo y fuente globales*/
+* {
+    color: #ff0000;
+    background-color: #f4f4f4;
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
 }
 
+/*Ejemplo 3: Añadir bordes, sombra y redondear bordes globalmente*/
+* {
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 5px rgb(0, 21, 255);
+    border-radius: 8px;
+  }
+  
+  
+  
 
-.center{
-    position: relative;
-    align-content: center;
-}
+
+
+
+
+
+
+
